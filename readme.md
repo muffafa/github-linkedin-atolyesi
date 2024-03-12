@@ -33,7 +33,7 @@ Kullanırken atıfta bulunursanız çok sevinirim.
 
 ### 🧠 Yapay Zeka Prompt Örnekleri
 
-Mentörlük isteği mesajı:
+1- Mentörlük isteği mesajı:
 
 ```txt
 Generate a personalized mentorship request message targeting a professional in the field of frontend development. The message should express my eagerness to learn and grow in the area of frontend technologies and user experience design. It should highlight my admiration for the mentor's work, especially their contributions to [specific technology, library, or development methodology]. The message should convey respect, enthusiasm for a mentorship opportunity, and flexibility in scheduling a meeting to discuss the potential mentorship relationship. Include a polite thank you and a formal sign-off with my name.
@@ -41,23 +41,23 @@ Generate a personalized mentorship request message targeting a professional in t
 
 > Generate a personalized mentorship request message targeting a professional in the field of frontend development. The message should express my eagerness to learn and grow in the area of frontend technologies and user experience design. It should highlight my admiration for the mentor's work, especially their contributions to [specific technology, library, or development methodology]. The message should convey respect, enthusiasm for a mentorship opportunity, and flexibility in scheduling a meeting to discuss the potential mentorship relationship. Include a polite thank you and a formal sign-off with my name.
 
-Başlık
+2- Etkinlik katılımı paylaşımı:
 
 ```txt
-
+Generate a LinkedIn post reflecting my participation in the "Yeni İşime Hazırlanıyorum" program, held on March 12th in Maltya, organized by Kodluyoruz in collaboration with Microsoft. The post should express my gratitude for the opportunity to be a part of this event as an attendee. It should highlight the key workshops of the program, including the Resume and Cover Letter & Job Search Techniques Workshop, Entrepreneurship Workshop, and LinkedIn & GitHub Workshop. The post should convey my appreciation to the organizers and mention how these workshops have contributed to my professional development. Include a thankful note to all the mentors and speakers who shared their knowledge and experiences.
 ```
 
-Başlık
+> Generate a LinkedIn post reflecting my participation in the "Hazırlanıyorum" program, held on March 12th in Malta, organized by Kodluyoruz in collaboration with Microsoft. The post should express my gratitude for the opportunity to be a part of this event as an attendee. It should highlight the key workshops of the program, including the Resume and Cover Letter & Job Search Techniques Workshop, Entrepreneurship Workshop, and LinkedIn & GitHub Workshop. The post should convey my appreciation to the organizers and mention how these workshops have contributed to my professional development. Include a thankful note to all the mentors and speakers who shared their knowledge and experiences.
 
-```txt
+3- Bir iş ilanı için önyazı (cover letter):
 
+``` txt
+Generate a concise and compelling cover letter tailored for a specific job listing on LinkedIn. I will provide my resume and the job description. The letter should articulate why I am the ideal candidate for the position, highlighting relevant skills and experiences from my resume. It should address the key requirements and responsibilities listed in the job description, demonstrating how my background aligns with the needs of the position. The letter should also express my enthusiasm for the role and the company, and conclude with a polite request for an interview, thanking the reader for their time and consideration.
 ```
 
-Başlık
+>Generate a concise and compelling cover letter tailored for a specific job listing on LinkedIn. I will provide my resume and the job description. The letter should articulate why I am the ideal candidate for the position, highlighting relevant skills and experiences from my resume. It should address the key requirements and responsibilities listed in the job description, demonstrating how my background aligns with the needs of the position. The letter should also express my enthusiasm for the role and the company, and conclude with a polite request for an interview, thanking the reader for their time and consideration.
 
-```txt
-
-```
+Profil biyografisi, iş deneyimi yazısı, tebirkler yorumu, içerik önerileri ve bir çok alanda kullanabilirsiniz...
 
 ## 💻 GitHub
 
